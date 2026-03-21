@@ -1,3 +1,4 @@
+
 def isIsomorphic(self, s: str, t: str) -> bool:
         len(s) != len(t)
         map_st = {}
